@@ -1,0 +1,20 @@
+user_id,group_id,cuisine,rating,visit_count,allergy,timestamp
+1,101,Italian,5,12,None,2024-12-01 18:00:00
+2,101,Chinese,4,9,Peanuts,2024-12-01 19:30:00
+3,101,Japanese,3,5,None,2024-12-02 13:00:00
+4,101,Mexican,5,7,Dairy,2024-12-03 20:00:00
+5,101,Italian,4,11,None,2024-12-04 14:30:00
+6,102,Indian,5,15,None,2024-12-05 19:00:00
+7,102,Greek,3,8,Gluten,2024-12-06 12:00:00
+8,102,French,4,6,None,2024-12-06 15:00:00
+9,102,Japanese,5,10,None,2024-12-07 20:00:00
+10,103,Mexican,4,12,None,2024-12-08 18:00:00
+11,103,Italian,5,9,Shellfish,2024-12-09 14:00:00
+12,103,Thai,3,7,None,2024-12-09 20:00:00
+13,103,Indian,4,10,Dairy,2024-12-10 19:30:00
+14,103,Mediterranean,5,14,None,2024-12-11 13:00:00
+15,104,Korean,5,16,None,2024-12-12 18:00:00
+16,104,Italian,4,9,None,2024-12-13 12:30:00
+17,104,Japanese,3,5,Gluten,2024-12-13 20:00:00
+18,104,Chinese,5,13,None,2024-12-14 14:30:00
+19,104,Indian,4,11,None,2024-12-15 15:00:00
